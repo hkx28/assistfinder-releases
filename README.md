@@ -4,11 +4,11 @@
 
 # BucketFinder
 
-**by AssistLabs**
+**by JosephKim**
 
 클라우드 버킷 스토리지를 macOS Finder처럼 다루는 무료 크로스플랫폼 데스크톱 클라이언트
 
-[![Release](https://img.shields.io/badge/release-v0.2.2-6C4CF1)](../../releases)
+[![Release](https://img.shields.io/badge/release-v0.2.4-6C4CF1)](../../releases)
 [![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows-black)](../../releases)
 [![License](https://img.shields.io/badge/binary-free-brightgreen)](#-라이선스-license)
 
@@ -123,8 +123,9 @@ Windows 빌드는 아직 코드사이닝 전이라 첫 실행 시 SmartScreen �
 
 ## 💬 지원 (Support)
 
-- 버그 신고·기능 제안: [Issues](../../issues)
-- 사용 중 발생한 오류는 가능하면 다음 정보와 함께 등록해주세요:
+- 문의·지원 이메일: **[hkx228@gmail.com](mailto:hkx228@gmail.com)**
+- 버그 신고·기능 제안: [Issues](../../issues) 또는 위 이메일
+- 사용 중 발생한 오류는 가능하면 다음 정보와 함께 보내주세요:
   - 앱 버전 (앱 → 정보)
   - OS와 버전
   - 재현 단계
@@ -138,4 +139,4 @@ Windows 빌드는 아직 코드사이닝 전이라 첫 실행 시 SmartScreen �
 
 ---
 
-_BucketFinder by AssistLabs_
+_BucketFinder by JosephKim_
