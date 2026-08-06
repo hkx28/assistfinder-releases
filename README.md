@@ -4,7 +4,7 @@
 
 # BucketFinder
 
-**by JosephKim**
+**by Joseph**
 
 클라우드 버킷 스토리지를 macOS Finder처럼 다루는 무료 크로스플랫폼 데스크톱 클라이언트
 
@@ -139,4 +139,4 @@ Windows 빌드는 아직 코드사이닝 전이라 첫 실행 시 SmartScreen �
 
 ---
 
-_BucketFinder by JosephKim_
+_BucketFinder by Joseph_
